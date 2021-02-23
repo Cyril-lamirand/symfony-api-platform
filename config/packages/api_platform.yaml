@@ -1,4 +1,7 @@
 api_platform:
+    title: 'To-do-List'
+    description: 'A beautiful API made with Symfony & API Platform'
+    version: '1.0.0'
     mapping:
         paths: ['%kernel.project_dir%/src/Entity']
     patch_formats:
